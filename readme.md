@@ -57,3 +57,11 @@ This project is a full-stack application that simulates an OpenAI chatbot. The a
 - **POST /api/auth/login:** Log in an existing user.
 - **GET /api/chat/history:** Retrieve chat history for a logged-in user.
 - **POST /api/chat/send:** Send a message to the chatbot and receive a response.
+
+## Project Screenshots
+
+### Chatbot Interface
+
+![Chatbot Interface](./assets/image1.png)
+![Chatbot Interface](./assets/image2.png)
+![Chatbot Interface](./assets/image3.png)
